@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+}
+links{
+    text-align: center;
+}
+#welcome{
+    background-color: aqua;
+}
+.menu{
+     background-color: cornflowerblue;  
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    cursor: pointer;
+}
+.links{
+    color: red;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    color:white;
+    float: left;
+}
+.links:hover{
+    background-color: forestgreen;
+}
+#p1{
+    color: white;
+ font-family: 'Vampiro One', cursive;
+}
+img{
+    border-radius: 50%;
+    width:300px;
+    text-align: center;
+}
+#bio{
+    background-color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+#videos{
+    background-color: fuchsia;
+}
+#mywork{
+background-color: dodgerblue;
+}
+#inspiration{
+background-color: crimson;
+}
+#contact{
+    background-color: aqua;
+}
